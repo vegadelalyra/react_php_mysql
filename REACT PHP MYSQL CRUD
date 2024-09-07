@@ -1,0 +1,7 @@
+REACT CRUD example using PHP API and MYSQL database
+- Install node, npm
+- Create React APP
+- Create Links and routing in REACT
+- Create LIST, CREATE, UPDATE component in REACT
+- Create database in MySQL
+- Create GET, POST, PUT and DELETE API in PHP
